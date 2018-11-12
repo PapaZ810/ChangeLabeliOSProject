@@ -26,8 +26,6 @@ public class LabelChangerViewController: UIViewController
     
     @IBAction func labelButton(_ sender: UIButton)
     {
-        label.text = "Memerino"
-        label.text = "Memes"
+        label.text = "p p roni piezza"
     }
 }
-
